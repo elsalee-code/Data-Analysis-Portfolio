@@ -1,0 +1,11 @@
+## Project 2: Operations Performance Analysis
+
+### Objective
+To analyze operational data in order to identify performance inefficiencies and key factors contributing to delays.
+
+### Dataset
+## Key Questions
+1. What is the typical average delivery time across all orders?
+2. Which regions or operational categories perform worse than the overall average?
+3. How do delivery times vary based on order characteristics (e.g. vehicle type, age, time delivered)?
+4. What operational improvements could reduce recurring delays?
