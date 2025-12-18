@@ -1,0 +1,30 @@
+## Project 1: Sales Analysis
+
+### Objective
+To analyze retail sales data in order to identify top-performing products, revenue trends, and key insights that can support business decision-making.
+
+### Dataset
+Online Retail Dataset (Kaggle)  
+Raw data not uploaded due to size and licensing considerations.
+
+### Key Questions
+- Which products sell the most by quantity?
+- Which products generate the highest revenue?
+- How does revenue change over time?
+
+### Tools
+- Microsoft Excel
+
+### Analysis Summary
+- Product performance was evaluated using both quantity sold and total revenue.
+- Monthly revenue trends were analyzed to identify seasonal patterns.
+- Findings highlight the difference between high-volume and high-revenue products.
+
+### Key Insights
+- Products with the highest quantity sold are not always the highest revenue generators.
+- Sales exhibit noticeable seasonal trends.
+- A small subset of products contributes a significant portion of total revenue.
+
+### Recommendations
+- Balance inventory between high-demand items and high-revenue products.
+- Focus sales and marketing strategies around peak sales periods.
